@@ -10,10 +10,10 @@
   --global-theme-color: #1507A7;
   --global-hover-color: #1507A7;
   --global-footer-bg-color: #{$grey-color-dark};
-  --global-footer-text-color: #84838C;
+  --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #84838C;
-  --global-divider-color: rgba(0,0,0,.1);
+  --global-divider-color: #84838C;;
   --global-card-bg-color: #{$white-color};
 
   .fa-sun {
