@@ -3,8 +3,8 @@ layout: page
 title: INFLUENZA
 description: a project with no image
 img:
-importance: 4
-category: Research Projects
+importance: 6
+category: ResearchProjects
 ---
 
 Every project has a beautiful feature showcase page.

@@ -4,7 +4,7 @@ title: EXON
 description: a project with a background image
 img: assets/img/3.jpg
 importance: 2
-category: Research Projects
+category: ResearchProjects
 ---
 
 Every project has a beautiful feature showcase page.

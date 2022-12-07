@@ -3,8 +3,8 @@ layout: page
 title: COVID
 description: another without an image
 img:
-importance: 3
-category: Research Projects
+importance: 4
+category: ResearchProjects
 ---
 
 Every project has a beautiful feature showcase page.

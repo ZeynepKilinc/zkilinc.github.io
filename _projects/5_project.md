@@ -3,8 +3,8 @@ layout: page
 title: BBB
 description: a project with a background image
 img: assets/img/1.jpg
-importance: 3
-category: Research Projects
+importance: 5
+category: ResearchProjects
 ---
 
 Every project has a beautiful feature showcase page.
