@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
+title: Extracurriculars
 permalink: /extracurriculars/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 1
-display_categories: [Research, Course Projects,Volunteer]
+display_categories: [Academic,Service,Sport & Art,]
 horizontal: false
 ---
 
