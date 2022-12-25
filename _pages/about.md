@@ -6,7 +6,7 @@ subtitle: Undergraduate Researcher</a>
 
 profile:
   align: right
-  image: grad_pic3.jpg
+  image: grad_pic4.png
   image_circular: false # crops the image to make it circular
 
 news: true  # includes a list of news items
@@ -14,7 +14,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a senior undergraduate student, doing double major in Molecular Biology & Genetics and Computer Science at Sabancı University with a minor in Chemistry. Throughout my undergraduate studies I have focused on discovering the subjects that motivates me the most. This derive allowed me to gain broad research experience on the application of bioinformatics and computational biology tools on various subjects. Through these experiences I had the 
+Hello There! I am a senior undergraduate student, doing double major in Molecular Biology & Genetics and Computer Science at Sabancı University with a minor in Chemistry. In this website you can find my academic history, my journey in science and some of my favorite stories 
+
+Throughout my undergraduate studies I have focused on discovering the subjects that motivates me the most. This derive allowed me to gain broad research experience on the application of bioinformatics and computational biology tools on various subjects. Through these experiences I had the 
 . 
 
 Thanks to the opportunities offered by my professors and their encouragements and patience, I have learned how to work systematically in a reseach project, to cooperate with different teams in my area, what to include in a well structured poster, key aspects to create the figures that represents my data efortlesly and  It was a privilage to work with all my professors and my amazing lab mates.  
