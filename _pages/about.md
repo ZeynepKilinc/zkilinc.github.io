@@ -6,7 +6,7 @@ subtitle: Undergraduate Researcher</a>
 
 profile:
   align: right
-  image: grad_pic2.png
+  image: grad_pic3.jpg
   image_circular: false # crops the image to make it circular
 
 news: true  # includes a list of news items
