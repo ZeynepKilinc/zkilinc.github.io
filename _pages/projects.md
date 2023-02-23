@@ -5,8 +5,8 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 1
-display_categories: [CourseProjects,ResearchProjects]
-horizontal: false
+display_categories: [Selected Course Projects,Selected Research Projects]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->

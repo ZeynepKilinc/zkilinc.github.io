@@ -1,10 +1,10 @@
 ---
 layout: page
-title: EXON
-description: a project with a background image
-img: assets/img/3.jpg
+title: Exon Repair 
+description: Differential DNA damage and repair on Exonic-Intronic regions
+img: 
 importance: 2
-category: ResearchProjects
+category: Selected Research Projects
 ---
 
 Every project has a beautiful feature showcase page.

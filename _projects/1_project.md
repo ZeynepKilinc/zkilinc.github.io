@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ORGANOCATALYST
-description: a project with a background image
-img: assets/img/12.jpg
+title: COVID 
+description: Comprehensive mutational and phylogenetics analysis of SARS-CoV-2  
+img: 
 importance: 1
-category: ResearchProjects
+category: Selected Research Projects
 ---
 
 Every project has a beautiful feature showcase page.

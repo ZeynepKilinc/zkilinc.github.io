@@ -1,10 +1,10 @@
 ---
 layout: page
-title: BBB
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 5
-category: ResearchProjects
+title: Blood-Brain-Barrier
+description: Detection and Analysis of Trancytosis Proteins for Drug Delivery to the Brain
+img: 
+importance: 4
+category: Selected Research Projects
 ---
 
 Every project has a beautiful feature showcase page.

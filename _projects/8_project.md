@@ -1,10 +1,10 @@
 ---
 layout: page
-title: cs301
-description: another without an image
+title: CS48002
+description: Network Science
 img:
 importance: 8
-category: CourseProjects
+category: Selecetd Course Projects
 ---
 
 Every project has a beautiful feature showcase page.

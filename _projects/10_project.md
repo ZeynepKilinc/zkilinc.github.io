@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: CS412
 description: another without an image
 img:
 importance: 10

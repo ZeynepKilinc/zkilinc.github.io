@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Influenza
-description: Mutational analysis of influenza virus from clinical data
-img:
-importance: 3
-category: Selected Research Projects
+title: HONEY BEE
+description: a project that redirects to another website
+img: assets/img/7.jpg
+redirect: https://unsplash.com
+importance: 
+category: Sevice
 ---
 
 Every project has a beautiful feature showcase page.

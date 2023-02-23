@@ -1,10 +1,10 @@
 ---
 layout: page
-title: GENETHERAPY
-description: another without an image
+title: CS301
+description: Algorithms
 img:
 importance: 7
-category: ResearchProjects
+category: Selecetd Course Projects
 ---
 
 Every project has a beautiful feature showcase page.

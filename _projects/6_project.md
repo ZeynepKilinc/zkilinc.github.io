@@ -1,10 +1,10 @@
 ---
 layout: page
-title: INFLUENZA
-description: a project with no image
+title: CS412
+description: Machine Learning
 img:
 importance: 6
-category: ResearchProjects
+category: Selecetd Course Projects
 ---
 
 Every project has a beautiful feature showcase page.

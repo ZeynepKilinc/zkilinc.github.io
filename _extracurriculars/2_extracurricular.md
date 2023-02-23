@@ -1,11 +1,10 @@
 ---
 layout: page
-title: HONEY BEE
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: ResearchProjects
+title: COVID 
+description: Comprehensive mutational and phylogenetics analysis of SARS-CoV-2  
+img: 
+importance: 2
+category: Sevice
 ---
 
 Every project has a beautiful feature showcase page.

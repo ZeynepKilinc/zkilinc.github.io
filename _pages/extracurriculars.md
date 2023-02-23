@@ -5,7 +5,7 @@ permalink: /extracurriculars/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 5
-display_categories: [Academic , Sevice, Art and Sport]
+display_categories: [Academic,Sevice, Art and Sport]
 horizontal: false
 ---
 

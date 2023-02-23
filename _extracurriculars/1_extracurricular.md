@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Influenza
-description: Mutational analysis of influenza virus from clinical data
-img:
-importance: 3
-category: Selected Research Projects
+title: COVID 
+description: Comprehensive mutational and phylogenetics analysis of SARS-CoV-2  
+img: 
+importance: 1
+category: Sevice
 ---
 
 Every project has a beautiful feature showcase page.
